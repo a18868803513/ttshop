@@ -5,4 +5,5 @@ package com.cb.c;
  */
 public class Cb {
     private int id;
+    private String cb;
 }
